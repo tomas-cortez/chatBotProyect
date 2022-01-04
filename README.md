@@ -1,6 +1,6 @@
 # chatBotProyect
 ### This is an unfinished project about a simple chatbot.
-
+#### (union_todo.ipynb)
 1. Reminders for the project:
 2. Find why one of the vectorizers fails in the final while loop.
 3. Tidy up the repository a bit.
