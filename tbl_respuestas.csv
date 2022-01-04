@@ -1,0 +1,386 @@
+IDRespuesta,Intencion,SubIntencion,Carrera,w5,Modalidad,Respuesta
+1,generalidades,todas,IA,todas,todas,"A partir de la captación y procesamiento de datos serán capaces de entrenar sistemas de Inteligencia Artificial que brinden soluciones a un amplio abanico de actividades industriales, comerciales y profesionales. Dado que la Inteligencia Artificial es un área en pleno desarrollo, también podrán realizar investigaciones sobre nuevas aplicaciones a innovar. Será capaz de colaborar con ingenieros, profesionales de agro, científicos, sistema bancario, médicos, biólogos, profesionales de RRHH, de sistemas informáticos, de estadística, mercadotecnia, gerentes, economistas, y todo el ecosistema que se conforma alrededor de las denominadas “startups” que requieren soluciones innovadoras en forma permanente. "
+2,generalidades,todas,MM,todas,todas,"Como Diseñador de Multimedios, serás un profesional capaz de abordar la complejidad de la producción multimedia, en sus aspectos proyectuales de diseño y en el abordaje de su resolución técnica con hardware y software contemplando aspectos estéticos, humanos, tecnológicos y estratégicos. Podrás desempeñarte en departamentos de comunicación y diseño, productoras de contenidos audiovisuales para televisión y cine, empresas de efectos especiales y sellos discográficos, como así también en forma independiente tanto en el mercado local como internacional."
+3,generalidades,todas,DG,todas,todas,"El diseño gráfico es una disciplina indispensable como recurso ordenador de la comunicación humana. Una herramienta que, en manos de un profesional idóneo, le permite a las organizaciones contar con una eficiente estrategia de comunicación. Estamos constantemente rodeados por mensajes visuales, materializados en piezas gráficas cuyo objetivo principal es resolver las necesidades comunicacionales entre un sujeto social y su público. Para facilitar la relación entre ellos, se desarrollan acciones integrales que incluyen proyectos en las áreas de identidad institucional, gráfica de entorno, de envases, editorial y publicitaria, entre otros. Con el avance de las nuevas tecnologías nuestro entorno exige cada vez más, nuevas formas de comunicación que se adapten a diferentes discursos, soportes y medios. Como diseñador, encontrarás constantes desafíos vinculados a la proyección y producción de isologotipos, papelería institucional, etiquetas, afiches, catálogos, ente otros. A su vez, participarás de la producción de publicaciones y piezas para entornos digitales. En definitiva, el campo de acción es lo suficientemente amplio para especializarte y dedicarte al área de tu mayor interés."
+4,generalidades,todas,Pub,todas,todas,"En la actualidad y desde siempre, la publicidad ha comunicado marcas, estilos de vida y ha caracterizado un tiempo particular. Transmitir mensajes creativos por los medios más convenientes con inversiones productivas es el desafío de las estrategias de comunicación de las organizaciones de hoy. Como egresado estárás capacitado para trabajar en agencias como director o asistente de cuentas, creatividad, redacción, producción y medios, conformar estructuras independientes como boutiques creativas, centrales de medios o estudios de diseño."
+5,generalidades,todas,RRPP,todas,todas,"Las Relaciones Públicas constituyen un conjunto de acciones comunicacionales integradas, estratégicas, planificadas y sostenidas a lo largo del tiempo, orientadas a fortalecer vínculos de calidad entre las organizaciones y sus públicos, con el fin de legitimar el quehacer institucional, potenciar su competitividad y facilitar el logro de las metas propuestas.El dominio de la comunicación desvela a todo tipo de organizaciones, ya que entienden que en el mundo actual esto se traduce en “poder”. Los Relacionistas Públicos se enfocan en posicionar la imagen, a través del análisis de las tendencias del contexto y de la opinión pública, el diagnóstico organizacional y la ejecución de las más diversas herramientas de comunicación. Nuestros egresados aportan soluciones fundamentales para que las organizaciones avancen a paso firme en un mundo cada vez más competitivo."
+6,generalidades,todas,GCF,todas,todas,"Las organizaciones, tanto privadas como públicas, necesitan profesionales con herramientas prácticas y conocimientos teóricos para desarrollarse eficazmente en el área contable, impositiva, financiera y laboral, aportando información eficiente y eficaz para la toma de decisiones en la empresa."
+7,generalidades,todas,HyS,todas,todas,"Podrás trabajar efectuando relevamientos de los riesgos existentes y asesorando al empleador sobre las medidas preventivas a implementar con objeto de eliminar los riesgos en aquellas empresas que desarrollen actividades industriales, agrícolas y las relacionadas a la construcción. Análisis efectuados sobre la siniestralidad en las empresas demuestran con claridad que las pérdidas que se generan a partir de un accidente afectan a la empresa y a sus trabajadores en lo económico, en lo social, en lo moral y en lo legal. por ello el invertir en el mejoramiento de las condiciones de higiene y seguridad en los establecimientos significa potenciar el rendimiento de los trabajadores, mejorar su calidad de vida y por ende los resultados significan a la empresa una mejora en su imagen, competitividad y economía. Podrás asesorar, instruir, investigar y analizar en el marco del ámbito organizacional, para lograr un control óptimo y la reducción de los peligros que causen daños y lesiones a las personas y/o a la propiedad."
+8,generalidades,todas,Log,todas,todas,"Las empresas hoy necesitan ganar competitividad por medio de la reducción de costos y aumentar el nivel de servicio al cliente. Como egresado de Logística podrás actuar en los distintos niveles jerárquicos de una empresa en proyectos de abastecimiento, producción, comercialización, venta y distribución de bienes y de servicios, participando en el desarrollo de actividades interdisciplinarias con profesionales de todas las áreas para la implementación de procesos de calidad y diseñar integralmente proyectos logísticos."
+9,generalidades,todas,RRHH,todas,todas,"Como egresado y especialista en Recursos Humanos te ocuparás, de gestionar todo lo relativo al trabajo de las personas en cualquier tipo de organización, colaborando de este modo, con el logro de los objetivos planteados por los directivos de las empresas. Serás un profesional capaz de atender las actividades claves de planificación de necesidades, procesos de incorporación, mantenimiento, desarrollo y control de personal."
+10,generalidades,todas,TUR,todas,todas,"Tu objetivo como egresado será detectar, organizar, planificar y vender servicios para el disfrute de los recursos y circuitos turísticos con valor simbólico agregado. El turismo es una de las actividades más importantes de la economía de la región y del país que necesita de profesionales y emprendedores turísticos capaces de generar productos turísticos innovadores y atractivos, con conciencia social y ecológica, orientados a satisfacer los deseos y necesidades de las personas que hacen uso de su tiempo libre."
+11,generalidades,todas,Agro,todas,todas,"La economía argentina tiene su principal sustento en la producción de alimentos y es por ello que el sector agropecuario sostiene una participación importante en la conformación del PBI. La realidad del sector agropecuario, agroalimentario y agroindustrial presenta grandes oportunidades para que puedas insertarte profesionalmente como administrador de negocios capaz de aportar herramientas conceptuales que permitan que los productores asuman su rol empresario y generen emprendimientos ordenados, eficientes y sustentables."
+12,generalidades,todas,CI,todas,todas,"El desarrollo de nuestro país depende fundamentalmente, en lograr que las empresas obtengan oportunidades comerciales y apertura de los mercados estimulando las exportaciones. También es importante la búsqueda de aquellos insumos o equipos tecnológicos en las diferentes regiones del mundo para optimizar sus procesos productivos y mejorar su competitividad empresarial. En ese contexto, el profesional en Comercio Internacional actúa identificando oportunidades de negocios en mercados externos, desarrollando estrategias comerciales para la internacionalización de la empresa y en la gestión de operatoria aduanera y sus aspectos logísticos. El mundo de los negocios contemporáneos necesita de técnicos con una formación empresarial global."
+13,generalidades,todas,ADMIN,todas,todas,"Hoy existe en nuestro medio un gran vacío de conducción y la carrera te capacita para ocuparlos. Como egresado de administración de empresas podrás desarrollar tareas en la empresa como asistencia a la gerencia, ocupando mandos medios en la misma y actuando donde sea necesario contar con un profesional con habilidades y conocimientos de administración. Además, podrás tener la capacidad de desarrollar habilidades para gerenciar una empresa productora de bienes o servicios, como así también organizaciones económicas sin fines de lucro, actuando conjuntamente con diferentes profesionales de las distintas áreas como responsable de la dirección."
+14,generalidades,todas,MKT,todas,todas,"La Carrera de Marketing te forma profesionalmente capacitándote para conocer e investigar el mercado y luego actuar en él, brindando un completo bagaje de herramientas conceptuales y técnicas con el fin de detectar oportunidades a través de la investigación. Como profesional en Marketing tendrás capacidad para hacer propuestas sobre la planificación, implementación y control de políticas de productos, precios, distribución y comunicación, aplicables en empresas tanto de producción como de servicios."
+15,generalidades,todas,3D,todas,todas,"La revolución tecnológica presenta escenarios continuamente cambiantes en nuestra vida y en la de las organizaciones. En este contexto, la Impresión 3D entra en nuestros hogares a través de juguetes, indumentaria, herramientas, muebles, prótesis, y especialmente en la medicina, la odontología y la industria, alcanzando todos los ámbitos. De este modo, la impresión 3D presenta un nuevo horizonte que se adapta a las necesidades de los mercados, donde el profesional en Diseño e Impresión 3D está capacitado para planificar y programar actividades relacionadas con el diseño y la fabricación de productos, integrar equipos técnicos asociados a la producción; ofrecer diseños, prototipos o aplicaciones finales que se puedan materializar en poco tiempo y a bajo costo."
+16,generalidades,todas,INF,todas,todas,"La propuesta educativa de este campo profesional fue el primer ámbito de formación técnica al momento de la fundación de IES. Como egresado de Sistemas de Computación serás un profesional calificado para el análisis y diseño de sistemas informáticos, incluyendo la programación y desarrollo de software en diversos lenguajes y ambientes, diseño e implementación de sistemas de bases de datos, diseño y administración de redes que puede desempeñarse como programador, analista funcional, diseñador de base de datos, analista de testing, y otros de su nivel. Además, puede dedicarse a la organización y dirección de empresas dedicadas a la producción de software, como así también la gestión de proyectos complejos pudiendo desempeñarse en el mercado regional e internacional como líder de proyecto, coordinador de equipos técnicos, gerente de Sistemas y director de su propia empresa."
+17,generalidades,todas,Rob,todas,todas,"La Robótica es la tecnología que se ocupa del diseño, manufactura y aplicaciones de los robots, combinando diferentes disciplinas como la mecánica, la electrónica, la informática, la inteligencia artificial y la ingeniería de control. Está destinada a crear aparatos que simplifiquen la vida y realicen tareas de las personas. Probablemente en unos años haya más robots haciendo cosas por nosotros, y esto significa una nueva demanda laboral para los profesionales de esta rama de la tecnología. "
+18,generalidades,todas,Svirt,todas,todas,"Podrás conjugar el mundo de la informática, el diseño, la estética audiovisual y la programación, preparándote para una industria en franco crecimiento que sustenta su actividad tanto en el mercado interno como en el internacional. Una industria que año a año supera su facturación, posicionándose como líder en las industrias de entretenimiento, aventajando a la industria del cine y de la música; además, en su perfil de simulaciones virtuales, cada vez son más las empresas que se vuelcan a esta forma no tradicional de publicitar (advergame), educar (edugame), hacer marketing, (viralgame) y capacitar (trainingame). La primera oferta académica en su tipo, y la única, del centro del país."
+19,plan,todas,IA,todas,todas,"La carrera de Inteligencia Artificial tiene una duración de 3 años. 
+
+Las materias del Primer Semestre son: 
+- Álgebra 1 
+- Análisis Matemático 1 
+- Introducción a la Inteligencia Artificial 
+- Estadística y Exploración de Datos 1, 
+- Programacion 1 e Introduccion a los Estudios Superiores. 
+
+Las materias del Segundo Semestre son: 
+
+- Álgebra 2, 
+- Análisis Matemático 2, 
+- Computación Científica, 
+- Estadística y Exploración de Datos 1 
+- Inglés."
+20,plan,todas,MM,todas,todas,"La carrera de Diseño de Multimedios tiene una duración de 3 años. Las materias del Primer Semestre son: Digitalización, Inglés 1, Elementos de Diseño 1 y Comunicación Visual. Las materias del Segundo Semestre son: Elementos de Diseño 2, Diseñomática 1, Fotografía, Inglés 2 y Práctica Profesionalizante 1."
+21,plan,todas,DG,todas,todas,"La carrera de Diseño Gráfico y Publicitario tiene una duración de 3 años. Las materias del Primer Semestre son: Historia del Diseño, Técnicas de Dibujo, Elementos de Diseño 1, Comunicación Visual e Inglés 1. Las materias del segundo semestre son: Taller de Diseño 1, Diseñomática 1, Elementos de Diseño 2, Producción Gráfica y Fotografía."
+22,plan,todas,Pub,todas,todas,"La carrera de Publicidad tiene una duración de 3 años. Las materias del Primer Semestre son: Publicidad, Comunicación Visual, Psicología Social, Mercadotecnia y Diseñomática 1. Las materias del Segundo Semestre son: Análisis de los Medios de Comunicación, Fotografía, Comportamiento del Consumidor, Técnicas de Investigación Social y Gramática Aplicada. "
+23,plan,todas,RRPP,todas,todas,"La carrera de Relaciones Públicas tiene una duración de 3 años.  Las materias del Primer Semestre son: Psicología Social, Inglés 1, Introducción a las Relaciones Públicas e Institucionales y Recursos Informáticos. Las materias del Segundo Semestre son: Cultura Organizacional, Derecho Civil y Comercial, Organización Empresaria, Administración de Recursos Humanos y Técnicas de Investigación Social. "
+24,plan,todas,GCF,todas,todas,"La carrera de Gestión Contable y Financiera tiene una duración de 3 años. Las materias del Primer Semestre son: Organización Empresaria, Recursos Informáticos, Elementos de Contabilidad 1, Inglés 1 y Psicología Social. Las materias del Segundo Semestre son: Matemática, Ofimática, Sistemas de Información, Práctica Contable e Inglés 2. "
+25,plan,todas,HyS,todas,todas,"La carrera de Higiene y Seguridad Ambiental tiene una duración de 3 años. Las materias del Primer Semestre son: Informática, Administrador de Organizaciones, Química General y Orgánica, Seguridad 1, Legislación Laboral y Adaptación a los estudios de nivel superior. Las materias del Segundo Semestre son: Física 1, Matemática 1, Medicina del Trabajo 1, Psicología Laboral y Práctica 1.  "
+26,plan,todas,Log,todas,todas,"La carrera de Logística tiene una duración de 3 años. Las materias del Primer Semestre son: Matemática, Recursos Informáticos, Logística y Negocios, Inglés 1 y Portugués 1. Las materias del Segundo Semestre son: Probabilidad y Estadística, Empresa y Producción, Principios de Administración e Inglés 2."
+27,plan,todas,RRHH,todas,todas,"La carrera de Recursos Humanos tiene una duración de 3 años. Las materias del Primer Semestre son: Psicología Social, Recursos Informáticos, Organización Empresaria, Inglés 1 y Derecho Civil y Comercial. Las materias del Segundo Semestre son: Expresión Oral y Escrita, Técnicas de Investigación Social, Teoría y Práctica de la Comunicación y Práctica Profesionalizante 1."
+28,plan,todas,TUR,todas,todas,"La carrera de Turismo tiene una duración de 3 años. Las materias del primer semestre son: Organización Empresaria, Mercados Turísticos, Recursos Informáticos, Portugués 1 e Inglés 1. Las materias del Segundo Semestre son: Recursos Naturales, Servicios Turísticos, Portugués 2, Práctica Profesionalizante 1 e Inglés 2. "
+29,plan,todas,Agro,todas,todas,"La carrera de Agronegocios tiene una duración de 3 años. Las materias del Primer Semestre son: Introducción a la Físico química y Biología de los Sistemas Naturales, Principios de Administración, Recursos Informáticos, Clima y Suelo, e Introducción a los Estudios Superiores. Las materias del Segundo Semestre son: Biología y Medio Ambiente, Manejo de Suelos, Matemática, Introduccón a la Producción Agropecuaria y Práctica Profesional 1."
+30,plan,todas,CI,todas,todas,"La carrera de Analista en Comercio Internacional tiene una duración de 3 años.  Las materias del Primer Semestre son: Teoría y Práctica de la Comunicación, Psicología Motivacional, Comercio Internacional 1, Sociología Funcional e Inglés 1. Las materias del Segundo Semestre son: Matemática, Técnicas de Investigación Social, Mercadotecnia, Inglés 2 y Comercio Internacional 2. "
+31,plan,todas,ADMIN,todas,todas,"La carrera de Administración de Empresas tiene una duración de 3 años. Las materias del Primer Semestre son: Cultura Organizacional, Elementos de Contabilidad, Recursos Informáticos, Inglés 1 y Sistemas de Información. Las materias del Segundo Semestre son: Empresa y Producción, Organización Empresaria, Fundamentos de Economía, Portugués 1 e Inglés 2. "
+32,plan,todas,MKT,todas,todas,"La carrera de Analista de Mercados y Estrategias de Comercialización más conocida como  Marketing tiene una duración de 3 años. Las materias del Primer Semestre son: Teoría y Práctica de la Comunicación, Psicología Motivacional, Publicidad, Sociología Funcional, Derecho Civil y Comercial. Las materias del Segundo Semestre son: Matemática, Recursos Informáticos, Comportameinto del Consumidor, Práctica Profesionalizante 1 e Inglés."
+33,plan,todas,3D,todas,todas,"La carrera de Diseño e Impresión 3D tiene una duración de 3 años. Las materias del Primer Semestre son: Inglés 1, Matemática, Física, Historia de la Materialización e Impresión 3D, Dibujo Proyectual, e Introducción a los Estudios Superiores. Las materias del Segundo Semestre son: Inglés 2, Tecnología 1, Dibujo Técnico, Morfología y Práctica Profesionalizante 1."
+34,plan,todas,INF,todas,todas,"La carrera de Analista de Sistemas de Computación tiene una duración de 3 años. Las materias del Primer Semestre son: Programación Lógica 1, Laboratorio de Programación 1, Inglés 1, Álgebra y Hardware. Las materias del Segundo Semestre son: Programación Lógica 2, Laboratorio de Programación 2, Inglés 2, Matemática Discreta y Espresión Oral y Escrita. "
+35,plan,todas,Rob,todas,todas,"La carrera de Automatizacion, Control y Robótica tiene una duración de 3 años. Las materias del Primer Semestre son: Álgebra 1, Inglés 1, Análisis Matemático 1, Electrotecnia, Física e Introducción a los Estudios Superiores. Las materias del Segundo Semestre son: Análisis Matemática 2, Introducción a la Robótica, Electrónica, Inglés 2, Programación 1 y Práctica Profesionalizante. "
+36,plan,todas,Svirt,todas,todas,"La carrera de Simulaciones Virtuales y Video Juegos tiene una duración de 3 años. Las materias del Primer Semestre son: Interfaz Gráfica de Usuario, Inglés 1, Historia y Análisis de los Videojuegos, Programación Lógica 1, Técnias de Dibujo e Introducción a los Estudios Superiores. Las materias del Segundo Semestre son: Matemática Aplicada, Programación Lógica 2, Animación 1, Edición de Imágenes Digitales y Laboratorios de Videojuegos. "
+37,tramites,todas,todas,todas,todas,"Primero deberás hacer la Preinscripción, la cual puedes hacer desde la página de IES o en esta sede de Rondeau 165, y consiste en que cargues tus datos personales y la carrera de tu elección. 
+Luego aquí en la sede de IES, deberás abonar la Matrícula y el Cursillo de Ingreso, CIES, que es nivelatorio.
+También deberás elegir las materias que cursarás en el Primer Semestre, generalmente son todas excepto que inicies un trámite de Equivalencias por haber cursado otra carrera, también deberás elegir la forma de pago.
+Finalmente hay cierta documentación que deberás presentar para completar la inscripción: fotocopia del DNI, constancia de CUIL, Certificado de estudios de nivel medio completo autenticado y Certificado de Salud psicofísico.
+Desde ese momento estarás habilitado para cursar las materias del Primer Semestre!
+ 
+"
+38,tramites,preinscripcion,todas,todas,todas,"Primero deberás hacer la Preinscripción, la cual puedes hacer desde la página de IES o en esta sede de Rondeau 165, y consiste en que cargues tus datos personales y la carrera de tu elección. "
+39,tramites,cies,todas,todas,todas,"El CIES es el Cursillo Introductorio. Es sólo nivelatorio y su objetivo es que ingreses a tu carrera con los conocimientos mínimos necesarios para iniciar correctamente. Dura sólo entre una y tres semanas.
+El CIES es el mismo para todas las carreras y consta de tres materias: Introducción a la Matemática, Expresión Oral y Escrita, e Introducción al Siglo veintiuno. 
+El CIES es obligatorio, excepto para aquellas personas que han cursado otra carrera y presentan trámite de equivalencia.
+No te preocupes que son fáciles!
+Después de hacer la Preinscripción deberás anotarte para hacer el cursillo. Puedes hacerlo en Informes en Rondeau 165. "
+40,tramites,requisitos,todas,todas,todas,"Hay cierta documentación que deberás presentar para completar al inscripción: fotocopia del DNI, constancia de CUIL, Certificado de Estudios de Nivel Medio completo autenticado y Certificado de Salud psicofísico.
+Deberá presentarla en esta sede de IES en Rondeau 165.
+También se debe abonar la Matrícula que tiene validez por un semestre."
+41,tramites,equivalencias,todas,todas,todas,"Si has aprobado materias en otras carreras, ya sean de IES o de otras Universidades, entonces podés iniciar el trámite de equivalencias en la página del IES. 
+Las materias serán analizadas por el Director de la Carrera que comparará los planes de estudio y verá si se te puede otorgar una equivalencia completa o parcial para cada una de las materias que indiques. En el caso que se otorgue una equivalencia parcial, deberás rendir sólo los temas que no estén en ambos programas de estudio. 
+Si fuiste alumno de IES en otra carrera la asignación de las equivalencias es automática pero igual debes iniciar el trámite de equivalencias. "
+42,pagos,medios,todas,todas,todas,"El alumno solamente paga las materias que cursa, de acuerdo a los créditos de cada una, no siendo obligatorio cursar simultáneamente todas las materias del semestre.
+La totalidad del semestre podrá ser abonado:
+De contado, en un solo pago, al comienzo del semestre.
+Con efectivo.
+Con giro postal.
+Con depósito en bancos habilitados.
+Con transferencias bancarias o electrónicas.
+Con tarjeta Cordobesa, Naranja, en una o varias cuotas de acuerdo a cada una. Por otras tarjetas consultar.
+Con cheques de pago diferido hasta en 6 cheques que se entregan al comienzo del semestre."
+43,pagos,precio,todas,todas,todas,"Disculpe, pero no cuento con información sobre los precios. 
+Deberá averiguar con un informante humano. 
+Poseo información sobre las formas de pago."
+44,trabajo,todas,IA,todas,todas,"El egresado estará capacitado para: 
+
+Desarrollar sistemas de Inteligencia Artificial basados fundamentalmente en las metodologías de Aprendizaje Automático (Machine Learning).
+    Crear sistemas de Inteligencia Artificial capaces de aprender de los datos obtenidos para las metodologías de Aprendizaje Automático.
+    Desarrollar sistemas capaces de pronosticar valores numéricos o de efectuar clasificaciones.
+    Ajustar sistemas de Aprendizaje Automático.
+    Algunas aplicaciones de clasificación actuales que estarán capacitados a desarrollar son:
+        Procesamiento de Lenguaje Natural
+            Minería de Opinión
+            Análisis de Sentimientos
+            Análisis de Polaridad
+        Procesamiento de Imágenes
+            Reconocimiento de objetos
+            Reconocimiento de rostros
+        Detección de Anomalías, detección de fraudes
+        Inteligencia (análisis y pronósticos) de Negocios.
+        Sistemas de recomendaciones.
+    Estarán capacitados para desempeñarse en actividades de Ciencia de Datos.
+    Estarán capacitados para participar en el procesamiento y análisis de grandes volúmenes de datos (Big Data)
+    Estarán capacitados para adaptar las metodologías aprendidas a nuevas situaciones.
+
+"
+45,trabajo,todas,MM,todas,todas,"El trabajo del egresado será:  Diagnosticar problemas comunicacionales de organizaciones y empresas.
+    Definir proyectos Multimediales y diseñar piezas digitales e interactivas que resuelvan los problemas comunicacionales detectados en empresas y organizaciones.
+    Seleccionar y aplicar hardware y software para el diseño de piezas multimediales.
+    Interactuar con diseñadores gráficos y publicitarios en la elaboración de piezas de comunicación multimedial.
+    Actuar en departamentos cautivos de comunicación multimedial de empresas y organizaciones.
+
+"
+46,trabajo,todas,DG,todas,todas,"El trabajo del egresado será: Analizar y resolver situaciones en el campo de la comunicación visual. Esto implica el desarrollo de una metodología de trabajo proyectual que le permita reconocer el motivo de intervención, delimitar los objetivos y planificar una estrategia de comunicación gráfica acorde a las necesidades y requerimientos de la organización en cuestión.
+    Programar, proyectar y producir acciones de comunicación visual coordinando los recursos formales, técnicos y fácticos propios del Diseño Gráfico a los fines de lograr procesos de comunicación eficientes.
+    Ejecutar herramientas tecnológicas que permitan desarrollar y controlar los procesos de producción gráfica necesarios para lograr una implementación y puesta en uso adecuada para los soportes gráficos programados.
+    El egresado de se desempeñará fundamentalmente en departamentos de comunicación institucional, estudios de diseño, consultoras y agencias de marketing, publicidad y relaciones públicas, medios periodísticos, imprentas, proveedores de servicios gráficos, empresas, instituciones públicas y organizaciones de la sociedad civil. Pudiendo realizar también la actividad profesional en forma independiente como diseñador free lance.
+
+"
+47,trabajo,todas,Pub,todas,todas,"El trabajo del egresado será: Planificar, Organizar, Dirigir y Controlar departamentos y empresas que desarrollen actividades en el ámbito publicitario.
+    Coordinar e Intervenir en los desarrollos de campañas publicitarias desde su diagnóstico hasta la implementación, incluyendo las etapas de planificación y ejecución, teniendo como marco a los principios éticos y normas morales.
+
+"
+48,trabajo,todas,RRPP,todas,todas,"El trabajo del egresado será:
+    Analizar las tendencias de la organización y de sus públicos, en el ámbito de su coyuntura, en función de los intereses legítimos de ambos.
+    Relevar, diagnosticar y analizar los procesos comunicacionales internos y externos de organizaciones de todo tipo, tamaño y dimensión.
+    Diagnosticar las situaciones que configuran las tendencias de ambas partes y pronosticar las posibles consecuencias en la confluencia de los intereses particulares y el interés público.
+    Asesorar a los directivos responsables de la organización sobre las políticas generales de acción.
+    Gestionar y conducir la identidad organizacional y la imagen corporativa.
+    Planificar e implementar programas de comunicación y relaciones con factores de poder y grupos de presión.
+    Controlar el desarrollo de los planes, programas, proyectos y acciones
+    Evaluar los procesos, impactos y efectos cognitivos, afectivos, y conativos de las acciones implementadas.
+
+"
+49,trabajo,todas,GCF,todas,todas,"El trabajo del egresado será: 
+
+    Relevar, elaborar, registrar y controlar sistemas de información contables y financieros de las organizaciones.
+    Analizar y evaluar los componentes y significados de estados contables y financieros, teniendo en cuenta los requisitos legales y formales de los sistemas de información contables, a los fines de proveer información útil para la toma de decisiones.
+    Intervenir en los procesos de confección y control de los sueldos
+    Desarrollar un óptimo control de la gestión impositiva.
+    Analizar económica y financieramente los balances de todo tipo de entes.
+    Analizar y evaluar proyectos de inversión.
+    Asesorar a las organizaciones en materia contable, laboral-previsional, impositiva y financiera
+
+"
+50,trabajo,todas,HyS,todas,todas,"El trabajo del egresado será:
+
+    Efectuar relevamientos periódicos en la totalidad de sectores del establecimiento con objeto de determinar el cumplimiento o los No cumplimientos respecto a lo solicitado en la normativa vigente referido a: Condiciones edilicias, sistemas de lucha contra el fuego, máquinas, herramientas, ergonomía, Iluminación, ruido, contaminación ambiental, vehículos industriales, aparatos sometidos a presión, entre otros.
+    Generar informes que destaquen las medidas que deben adoptarse en función de la condición no apta inicial o Incumplimientos.
+    Verificar que se cumplimente la normativa de higiene y seguridad por parte de terceros contratados en el establecimiento.
+    Informar a profesional responsable del servicio de higiene y seguridad de las condiciones existentes en el establecimiento y las medidas que deban adoptarse.
+    Colaborar en la implementación de la política de calidad de la empresa detallando en los sistemas de gestión las condiciones de higiene y seguridad que debe cumplir personal de la empresa así como los terceros contratados.
+    Establecer los criterios de investigación de accidentes, elaborar informes estableciendo causas y medidas preventivas, efectuar seguimientos de dichas medidas preventivas y su continuidad en el tiempo a través de capacitaciones al personal con objeto de lograr la efectiva concientización de los trabajadores, mandos medios y niveles gerenciales.
+    Establecer una agenda de reuniones con los distintos responsables de la empresa con objeto de facilitar el seguimiento y control de la implementación de un sistema de gestión e informar a estos de necesidades técnicas operativas que resultarán de los relevamientos realizados, accidentes o enfermedades ocurridos a trabajadores propios o terceros dentro del establecimiento.
+    Generar la documentación correspondiente o asesorar a responsables de la empresa de la documentación que se requerirá en las distintas auditorias por parte de personal de organismos de fiscalización y control con objeto de evitar clausuras, multas o sanciones de distinta índole por parte de mencionados organismos.
+    Detallar en el análisis de riesgo, por puesto de trabajo, los adecuados elementos de protección personal que requiere cada puesto. Realizar las capacitaciones requeridas previas a la entrega de los elementos de protección personal; completar los formularios en los cuales debe llevarse registro de la entrega de dichos elementos, con los detalles de homologación, calidad y/o certificaciones según corresponda.
+    Asesorar al empleador respecto de normativa vigente y las modificaciones de la misma con objeto de detallar las nuevas medidas preventivas que en esta nueva normativa se solicita; generar la documentación que posibilite el cumplimiento de esta normativa vigente y proponer medidas que faciliten el cumplimiento por parte del empleador de las medidas solicitadas.
+    Llevar estadísticas de siniestralidad de la empresa segmentada por sectores y causas. Poner en conocimiento al empleador de desvíos en los índices de siniestralidad que pudieran generar la inclusión de la empresa en algún programa de reducción de siniestralidad específicos.
+
+"
+51,trabajo,todas,Log,todas,todas,"El trabajo del egresado será:
+
+    Identificar los procesos de producción de bienes y servicios.
+    Reconocer herramientas de planificación de proyectos e indicadores de seguimiento y control de los mismos.
+    Comprender las Normas de Calidad en la gestión y en los procesos.
+    Identificar los distintos tipos de herramientas de manipulación de material y los distintos tipos de embalajes.
+    Identificar los puntos de pérdida en los distintos procesos de producción, distribución y abastecimiento.
+    Identificar las herramientas de calidad para lograr la mejora de procesos.
+    Diseñar indicadores de medición de los distintos procesos
+
+"
+52,trabajo,todas,RRHH,todas,todas,"El trabajo del egresado será: 
+
+    Diagnosticar la situación de la organización en relación a sus recursos humanos
+    Analizar el funcionamiento de los grupos y los estilos de liderazgo
+    Diseñar, analizar y evaluar puestos de trabajo.
+    Evaluar el desempeño del personal en puestos de trabajo.
+    Desarrollar e implementar actividades de selección y contratación de personal.
+    Aplicar estrategias de remuneración.
+    Diseñar, implementar, y evaluar estrategias y políticas de promoción y motivación.
+    Diseñar, implementar y evaluar planes de capacitación.
+    Implantar procedimientos para gestionar y controlar la administración del trabajo.
+    Diseñar, realizar y controlar sistemas de comunicación interpersonal en los sectores de trabajo de la empresa.
+
+"
+53,trabajo,todas,TUR,todas,todas,"El trabajo del egresado será:
+
+    Relevar, evaluar y planificar el uso de recursos turísticos.
+    Asesorar, conducir y evaluar procesos de utilización pública y privada de explotación de recursos turísticos.
+    Administrar productos y servicios turísticos.
+    Seleccionar diversas estrategias y metodologías que permitan alcanzar los objetivos propuestos por empresas de servicios turísticos.
+    Conducir grupos humanos, tanto en tareas de planificación como de operación turística, de modo coordinado, cooperativo y ejecutivo.
+    Diseñar y conducir áreas funcionales en el ámbito del turismo.
+    Seleccionar, controlar y/o modificar sistemas de información turística
+
+"
+54,trabajo,todas,Agro,todas,todas,"El trabajo del egresado será: 
+
+    Asistir y/o auxiliar a los profesionales universitarios afines con competencias regimentadas.
+    Actuar como responsable de la administración de negocios agropecuarios, agroindustriales y de servicios.
+    Gestionar, coordinar y ejecutar proyectos de producción agropecuaria y agroindustrial en organizaciones.
+    Reconocer y seleccionar información de nuevas tecnologías que sirvan para mejorar y optimizar la eficiencia de los negocios agropecuarios y afines.
+    Eficientizar la distribución de los recursos dentro de la organización buscando dar la mayor rentabilidad al empresario sin descuidar el aspecto de sustentabilidad.
+
+"
+55,trabajo,todas,CI,todas,todas,"El trabajo del egresado será:
+
+    Realizar gestiones y trámites que requiere cada operación de comercio exterior ante los organismos relacionados como entidades financieras, Administración Nacional de Aduanas, empresas de transporte, logística y seguros.
+    Evaluar proyectos y seleccionar estrategias para el posicionamiento de productos en mercados internacionales.
+    Comprender y aprovechar las estructuras regionales y sectoriales de diversos países en el mundo para integrar y generar nuevos negocios.
+    Evaluar e implantar modelos innovadores de comercialización para la competencia global.
+    Crear inteligencia de mercado creando valor de marca, permitiendo optimizar la rentabilidad de la empresa a través de una mayor presencia en los mercados globales.
+    Diseñar, dirigir y controlar estrategias comunicacionales en mercados existentes o nuevos.
+
+"
+56,trabajo,todas,ADMIN,todas,todas,"El trabajo del egresado será: 
+    Conducir grupos humanos, tanto en tareas de planificación como de ejecución, de modo coordinado, cooperativo y ejecutivo.
+    Seleccionar diversas estrategias y metodologías para obtener resultados convenientes para la empresa, en tiempo y forma.
+    Asesorar, conducir, y evaluar procesos de organización empresaria.
+    Diseñar objetivos estratégicos a lograr por la empresa, ponerlos en ejecución y evaluarlos.
+    Diseñar, seleccionar, controlar y/o modificar sistemas de información.
+    Arbitrar medios y recursos que permitan alcanzar los objetivos propuestos.
+    Tomar decisiones de modo fundado acerca del funcionamiento estratégico, táctico y operativo de la empresa
+    Diseñar, conducir, evaluar, y corregir políticas de posicionamiento empresario.
+
+"
+57,trabajo,todas,MKT,todas,todas,"El trabajo del egresado será:
+
+    Seleccionar, diseñar, implementar y controlar estudios de mercados.
+    Evaluar estudios de mercados, analizando sus resultados y efectuando correcciones.
+    Recomendar, implementar y controlar estrategias de comercialización, en función del análisis de mercado.
+    Constituir grupos de trabajo para realizar análisis de mercado.
+    Conducir equipos específicos e interdisciplinarios para efectuar análisis de mercado.
+    Asesorar y evaluar en la aplicación de estrategias de comercialización.
+    Verificar los pasos requeridos para implementar análisis de mercado.
+    Controlar los resultados de análisis de mercado expidiéndose sobre su corrección.
+    Controlar la aplicación de estrategias de comercialización, expidiéndose sobre su corrección.
+    Constituir grupos de trabajo interdisciplinario para fijar estrategias correctivas.
+
+"
+58,trabajo,todas,3D,todas,todas,"El trabajo del egresado será:
+
+    Realizar el diseño, planificación y materialización, mediante impresión 3D, de productos, piezas o prototipos.
+    Aplicar sus conocimientos en nuevas tecnologías para la creación, armado o modificación de impresoras 3D.
+    Realizar escaneos 3D para la replicación de objetos tridimensionales.
+    Actuar como consultor, ejecutor o asesor de organismos, entidades, instituciones y empresas en lo referente a actividades que involucren la impresión 3D.
+    Secundar áreas de diseño y desarrollo de productos de las empresas, en el dibujo de planos 2D y modelado 3D.
+    Realizar presupuestos y/o tasaciones, sobre cuestiones emergentes de la problemática de las normas del diseño e impresión 3D.
+    Manejo y programación de equipos industriales, automatizados, con control numérico computarizado.
+
+"
+59,trabajo,todas,INF,todas,todas,"El trabajo del egresado será:
+
+    Diseñar, analizar, planificar, controlar sistemas de información, aplicando las plataformas de Hardware y Software más adecuadas al mercado existente.
+    Organizar, planificar, controlar y dirigir el área de sistemas de las organizaciones en lo que respecta a los sistemas de información.
+    Distinguir los distintos lenguajes de programación de computadoras de uso más frecuente del manejo de técnicas de programación y sus recursos auxiliares.
+    Analizar adecuadamente los problemas según las características del equipo de computación disponible.
+    Aplicar conocimientos matemáticos y técnicas de programación que le permitan solucionar eficientemente posibles problemas.
+    Reconocer los principios éticos y las normas morales que ordenen su comportamiento profesional y laboral.
+    Reconocer, seleccionar y/o adaptar procesamientos de datos por medios automáticos.
+    Definir métodos de verificación de  datos y establecer normas para  el desarrollo de software.
+
+"
+60,trabajo,todas,Rob,todas,todas,"El trabajo del egresado será:
+
+    Capacitar y asesorar a usuarios en el diseño, mantenimiento, operación y puesta en marcha de máquinas automáticas, controles de procesos automatizados y mecanismos robóticos.
+    Diseñar automatizaciones a partir de dispositivos de base hidráulica neumática y eléctrica / electrónica.
+    Plantear y resolver problemas de ajuste y puesta a punto de sistemas de control industrial.
+
+Y podrá trabajar:
+    En entornos automatizados.
+    Junto a ingenieros, aunque al poseer conocimientos de electrotecnia, electrónica, mecánica e informática puede tener la suficiente autonomía para crear su propia empresa de productos, sistemas o servicios.
+    En distintos niveles jerárquicos de industrias del tipo metalmecánica, de alimentos, agroindustrial, de generación de energía, entre otras.
+
+"
+61,trabajo,todas,Svirt,todas,todas,"El trabajo del egresado será:
+
+    Definir y concretar proyectos de desarrollo de simulaciones virtuales y videojuegos de forma independiente o dentro de estudios de videojuegos.
+    Desempeñarse en departamentos cautivos de comunicación y diseño dentro de empresas y organizaciones, creando simulaciones digitales interactivas que funcionen de modo autónomo o en sistema con otras piezas de comunicación.
+    Integrar equipos de trabajo de desarrollo de juegos electrónicos y producir juegos de distinta complejidad tecnológica y distinta finalidad para medios u organizaciones de distinto tipo.
+    Programar en distintos idiomas computacionales para desarrollos de distintos índoles y distintas plataformas de soporte.
+    Desarrollar junto a departamentos de capacitación de empresas y organizaciones, simulaciones virtuales de carácter educativo en sus distintas formas y soportes dependiendo el sector al que pertenezcan (industria, medicina, arquitectura, militar, de negocio, etc.…)
+    Guionar y diseñar conceptos de un juego, delinear su guión y sus personajes implementando motores gráficos propios o de terceros.
+    Realizar piezas de adverteinment y advergaiming para agencias de publicidad, estudios de diseño y empresas de medios.
+    Realizar modelados 3D para desarrollos de videojuegos y simulaciones virtuales, así también como su edición de video, musicalización digital y creación de niveles.
+    Desempeñarse como tester y realizar portings de videojuegos a portátiles y teléfonos móviles.
+    Liderar grupos de trabajo en la planificación y gestión del desarrollo de videojuego y sus componentes.
+    Comprender los procesos comunicacionales, creativos, artísticos y lúdicos dentro de sus contextos sociales para lograr la producción de videojuegos que reflejen criterios estéticos, innovadores y estimulantes.
+
+"
+62,pagos,medios,todas,como,todas,"Para efectuar un pago o decidir cómo hará un pago deberá hablar con uno de mis compañeos de informes. 
+Yo le puedo informar sobre los medios y formas de pago disponibles en IES."
+63,pagos,medios,todas,quien,todas,"Puede preguntar a mis compañeros de Informes, sino los responsables de Pagos son las personas de Administración.
+"
+64,pagos,medios,todas,que,todas,"El alumno solamente paga las materias que cursa, de acuerdo a los créditos de cada una, no siendo obligatorio cursar simultáneamente todas las materias del semestre.
+La totalidad del semestre podrá ser abonado:
+De contado, en un solo pago, al comienzo del semestre.
+Con efectivo.
+Con giro postal.
+Con depósito en bancos habilitados.
+Con transferencias bancarias o electrónicas.
+Con tarjeta Cordobesa, Naranja, en una o varias cuotas de acuerdo a cada una. Por otras tarjetas consultar.
+Con cheques de pago diferido hasta en 6 cheques que se entregan al comienzo del semestre."
+65,pagos,medios,todas,cuando,todas,"Disculpe, pero no tengo esa información, deberá averiguar con un compañero Humano."
+66,pagos,medios,todas,donde,todas,Puede elegir qué materias cursará y elegir la forma de Pago en la Oficina de Informes. Para otras situaciones referidas a Pagos deberá dirigirse con la gente de Administración
+67,pagos,precio,todas,quien,todas,"Si desea efectuar un pago en efectivo, puede pagar en las oficinas de Administración.
+Sino recuerde que tenemos otras formas o medios de pago más convenientes.
+Puede preguntarme por las formas o medios de pago disponibles.
+"
+68,pagos,precio,todas,que,todas,"Disculpe, pero no cuento con información sobre los precios. 
+Deberá averiguar con un informante humano. 
+Poseo información sobre las formas de pago."
+69,pagos,precio,todas,como,todas,"Disculpe pero no comprendo su inquietud, podría reformular su consulta?"
+70,pagos,precio,todas,cuando,todas,No tengo información referida a las fechas de Pago o cuando podrían cambiar los precios. Deberá consultar con un informante humano!
+71,pagos,precio,todas,donde,todas,"Disculpe pero no consigo entender su pregunta, le agradecería si la puede reformular."
+72,tramites,todas,todas,que,todas,"
+Primero deberás hacer la Preinscripción, la cual puedes hacer desde la página de IES o en esta sede de Rondeau 165, y consiste en que cargues tus datos personales y la carrera de tu elección. 
+Luego aquí en la sede de IES, deberás abonar la Matrícula y el Cursillo de Ingreso, CIES, que es nivelatorio.
+También deberás elegir las materias que cursarás en el Primer Semestre, generalmente son todas excepto que inicies un trámite de Equivalencias por haber cursado otra carrera, también deberás elegir la forma de pago.
+Finalmente hay cierta documentación que deberás presentar para completar la inscripción: fotocopia del DNI, constancia de CUIL, Certificado de estudios de nivel medio completo autenticado y Certificado de Salud psicofísico.
+Desde ese momento estarás habilitado para cursar las materias del Primer Semestre!
+ "
+73,tramites,preinscripcion,todas,que,todas,"
+Primero deberás hacer la Preinscripción, la cual puedes hacer desde la página de IES o en esta sede de Rondeau 165, y consiste en que cargues tus datos personales y la carrera de tu elección. 
+"
+74,tramites,cies,todas,que,todas," El CIES es el Cursillo Introductorio. Es sólo nivelatorio y su objetivo es que ingreses a tu carrera con los conocimientos mínimos necesarios para iniciar correctamente. Dura sólo entre una y tres semanas.
+El CIES es el mismo para todas las carreras y consta de tres materias: Introducción a la Matemática, Expresión Oral y Escrita, e Introducción al Siglo veintiuno. 
+El CIES es obligatorio, excepto para aquellas personas que han cursado otra carrera y presentan trámite de equivalencia.
+No te preocupes que son fáciles!
+Después de hacer la Preinscripción deberás anotarte para hacer el cursillo. Puedes hacerlo en Informes en Rondeau 165. 
+"
+75,tramites,requisitos,todas,que,todas,"
+Hay cierta documentación que deberás presentar para completar al inscripción: fotocopia del DNI, constancia de CUIL, Certificado de Estudios de Nivel Medio completo autenticado y Certificado de Salud psicofísico.
+Deberá presentarla en esta sede de IES en Rondeau 165.
+También se debe abonar la Matrícula que tiene validez por un semestre.
+"
+76,tramites,equivalencias,todas,que,todas,"
+Si has aprobado materias en otras carreras, ya sean de IES o de otras Universidades, entonces podés iniciar el trámite de equivalencias en la página del IES, lo cual significa que es posible que algunas materias que tengan el mismo programa de estudio en ambas carreras se ten por aprobadas.
+
+"
+77,tramites,todas,todas,cuando,todas,"
+La Preinscripción debe hacerse antes de comenzar las clases y tambien deberás completar el CIES antes de comenzar las clases.
+También deberías abonar la matrícula antes de comenzar. 
+
+Es importante que comiences todos los trámtes antes de comenzar el cursado, aunque para terminar algunos es posible tomarse unos días mas.
+"
+78,tramites,preinscripcion,todas,cuando,todas,"
+La Preinscripción debe hacerse antes de comenzar las clases y tambien deberás completar el CIES antes de comenzar las clases.
+También deberías abonar la matrícula antes de comenzar. 
+
+Es importante que comiences todos los trámtes antes de comenzar el cursado, aunque para terminar algunos es posible tomarse unos días mas.
+"
+79,tramites,cies,todas,cuando,todas,"
+La Preinscripción debe hacerse antes de comenzar las clases y tambien deberás completar el CIES antes de comenzar las clases.
+También deberías abonar la matrícula antes de comenzar. 
+
+Es importante que comiences todos los trámtes antes de comenzar el cursado, aunque para terminar algunos es posible tomarse unos días mas.
+"
+80,tramites,requisitos,todas,cuando,todas,"
+La Preinscripción debe hacerse antes de comenzar las clases y tambien deberás completar el CIES antes de comenzar las clases.
+También deberías abonar la matrícula antes de comenzar. 
+
+Es importante que comiences todos los trámtes antes de comenzar el cursado, aunque para terminar algunos es posible tomarse unos días mas.
+"
+81,tramites,equivalencias,todas,cuando,todas,"
+El trámite de Equivalencias conviene iniciarlo lo antes posible ya que es posible que se te otorguen las materias del CIES o Cursillo de Nivelación como equivallencias, además sabrás en qué materias deberás inscribirte para comenzar a cursar."
+82,tramites,todas,todas,donde,todas,"
+La preinscripción puede hacerse a través de nuestra página web o en las oficinas de informes.
+El resto de los trámites deben hacerse en la oficina de informes.
+Los trámites de equivalencias se hacen en el DOA.
+"
+83,tramites,preinscripcion,todas,donde,todas,"
+La preinscripción puede hacerse a través de nuestra página web o en las oficinas de informes.
+El resto de los trámites deben hacerse en la oficina de informes.
+Los trámites de equivalencias se hacen en el DOA.
+"
+84,tramites,cies,todas,donde,todas,"La preinscripción puede hacerse a través de nuestra página web o en las oficinas de informes.
+El resto de los trámites deben hacerse en la oficina de informes.
+Los trámites de equivalencias se hacen en el DOA.
+El CIES para la modalidad presencial se cursa en la sede de Rondeau 165."
+85,tramites,requisitos,todas,donde,todas,"La preinscripción puede hacerse a través de nuestra página web o en las oficinas de informes.
+El resto de los trámites deben hacerse en la oficina de informes.
+Los trámites de equivalencias se hacen en el DOA.
+El CIES para la modalidad presencial se cursa en la sede de Rondeau 165."
+86,tramites,equivalencias,todas,donde,todas,"
+Los trámites de Equivalencias se pueden iniciar por nuestra página Web y luego los papeles y certificados que se te soliciten deberás traerlos personalemente. 
+"

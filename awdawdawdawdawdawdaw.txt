@@ -1,0 +1,292 @@
+#funciones
+#####################################################################################################
+def PreProcesar_carrera(Corpus, POS=False, Lema=True, Stem=True):
+    
+    
+    # Generar una lista de documentos de spacy para tratar el POS Tagging y la Lematización
+    docs=[]
+    for oracion in Corpus:
+        docs.append(nlp(oracion.lower())) #La lematización funciona mejor en minúsculas
+    
+    # Crear una lista de oraciones, donde cada elemento es una lista de palabras.
+    # Cada palabra está definida por una tupla (Texto, POSTag, Lema)
+    # Se omiten los tokens que son identificados como signos de puntuación
+    oraciones=[]
+    for doc in docs:
+        oracion=[]
+        for token in doc:
+            if token.pos_ != 'PUNCT':
+                oracion.append((token.text, token.pos_, token.lemma_))
+        oraciones.append(oracion)
+    
+    fc = open('stopwords.txt', 'r', encoding='utf8')
+    stopwords = fc.read().split('\n')
+    fc.close()
+    oraciones = [[palabra for palabra in oracion if palabra[2] not in stopwords] for oracion in oraciones]
+    
+    # Stemming
+    if Stem==True:
+        oraciones_aux=[]
+        for oracion in oraciones:
+            oracion_aux=[]
+            for palabra in oracion:
+                p_texto, p_pos, p_lema = palabra
+                # Si Lema es True, se Stemmatiza el lema; si no, se Stemmatiza la palabra original
+                if Lema==True:
+                    oracion_aux.append((p_texto, p_pos, p_lema, spanish_stemmer.stem(p_lema)))
+                else:
+                    oracion_aux.append((p_texto, p_pos, p_lema, spanish_stemmer.stem(p_texto)))
+            oraciones_aux.append(oracion_aux)
+        
+        oraciones = oraciones_aux
+    
+    Corpus_Procesado = [] #Variable de salida
+    
+    for doc in oraciones:
+        oracion = ''
+        for palabra in doc:
+            if Stem == True:
+                # Devolver cadena de Stemming
+                oracion = oracion + palabra[3]
+            else:
+                if Lema == True:
+                    # Devolver cadena de Lemas
+                    oracion = oracion + palabra[2]
+                else:
+                    # Devolver cadena de palabras originales
+                    oracion = oracion + palabra[0]
+            
+            if POS == True:
+                #Concatenar POS a cada palabra
+                oracion = oracion + '_' + palabra[1].lower()
+            
+            oracion = oracion + ' '
+        
+        Corpus_Procesado.append(oracion)
+        
+    return Corpus_Procesado
+
+def Corregir_Documentos_carrera(df_textos, columnas, POS=False, Lema=True, Stem=True):
+
+    for col in columnas:
+        df_textos[col] = PreProcesar_carrera(list(df_textos[col]), POS, Lema, Stem)
+    
+    # Sanear el DataFrame eliminando los duplicados y reindexándolo
+    df_textos = df_textos.drop_duplicates().reset_index(drop=True)
+    
+    return df_textos
+
+def carrera_lista(df_textos):
+    vari_df_textos_carr= df_textos.copy()
+    carrera_corr = Corregir_Documentos_carrera(vari_df_textos_carr,['oracion'],False,True,True)
+
+    vectorizador_carreras = pickle.load(open("vectorizador_carreras.pkl","rb"))
+    array_carreras=vectorizador_carreras.transform([carrera_corr['oracion'][0][:-1]])
+
+    modelo_carreras = pickle.load(open("modelo_carreras.sav","rb"))
+
+    carrera =sorted(list(modelo_carreras.predict_proba(array_carreras)[0]))[-1]
+    carrera2 = modelo_carreras.predict(array_carreras)
+    if carrera < 0.7: carrera2[0] == "todas"
+    return carrera2,carrera
+#####################################################################################################
+def PreProcesar_w5(Corpus, POS=False, Lema=True, Stem=True):
+    
+    
+    # Generar una lista de documentos de spacy para tratar el POS Tagging y la Lematización
+    docs=[]
+    for oracion in Corpus:
+        docs.append(nlp(oracion.lower())) #La lematización funciona mejor en minúsculas
+    
+    # Crear una lista de oraciones, donde cada elemento es una lista de palabras.
+    # Cada palabra está definida por una tupla (Texto, POSTag, Lema)
+    # Se omiten los tokens que son identificados como signos de puntuación
+    oraciones=[]
+    for doc in docs:
+        oracion=[]
+        for token in doc:
+            if token.pos_ != 'PUNCT':
+                oracion.append((token.text, token.pos_, token.lemma_))
+        oraciones.append(oracion)
+    
+    ww = open('stopwords_sin_w5.txt', 'r', encoding='utf8')
+    stopwords = ww.read().split('\n')
+    #stopwords=[x.lower() for x in stopwords]
+    ww.close()
+    oraciones = [[palabra for palabra in oracion if palabra[2] not in stopwords] for oracion in oraciones]
+    
+    # Stemming
+    if Stem==True:
+        oraciones_aux=[]
+        for oracion in oraciones:
+            oracion_aux=[]
+            for palabra in oracion:
+                p_texto, p_pos, p_lema = palabra
+                # Si Lema es True, se Stemmatiza el lema; si no, se Stemmatiza la palabra original
+                if Lema==True:
+                    oracion_aux.append((p_texto, p_pos, p_lema, spanish_stemmer.stem(p_lema)))
+                else:
+                    oracion_aux.append((p_texto, p_pos, p_lema, spanish_stemmer.stem(p_texto)))
+            oraciones_aux.append(oracion_aux)
+        
+        oraciones = oraciones_aux
+    
+    Corpus_Procesado = [] #Variable de salida
+    
+    for doc in oraciones:
+        oracion = ''
+        for palabra in doc:
+            if Stem == True:
+                # Devolver cadena de Stemming
+                oracion = oracion + palabra[3]
+            else:
+                if Lema == True:
+                    # Devolver cadena de Lemas
+                    oracion = oracion + palabra[2]
+                else:
+                    # Devolver cadena de palabras originales
+                    oracion = oracion + palabra[0]
+            
+            if POS == True:
+                #Concatenar POS a cada palabra
+                oracion = oracion + '_' + palabra[1].lower()
+            
+            oracion = oracion + ' '
+        
+        Corpus_Procesado.append(oracion)
+        
+    return Corpus_Procesado
+
+def Corregir_Documentos_w5(df_textos, columnas, POS=False, Lema=True, Stem=True):
+
+    for col in columnas:
+        df_textos[col] = PreProcesar_w5(list(df_textos[col]), POS, Lema, Stem)
+    
+    # Sanear el DataFrame eliminando los duplicados y reindexándolo
+    df_textos = df_textos.drop_duplicates().reset_index(drop=True)
+    
+    return df_textos
+
+def w5_listo(df_textos):
+    vari_df_textos_w5= df_textos.copy()
+    w5_corr = Corregir_Documentos_w5(vari_df_textos_w5,['oracion'],False,True,True)
+    vectorizador_w5 = pickle.load(open("vectorizador_w5.pkl","rb"))
+    array_w5=vectorizador_w5.transform([w5_corr['oracion'][0][:-1]])
+    modelo_w5 = pickle.load(open("modelo_w5.sav","rb"))
+
+    w5 = sorted(list(modelo_w5.predict_proba(array_w5)[0]))[-1]
+    w5_2 = modelo_w5.predict(array_w5)
+    if w5 < 0.7: w5_2[0] == "todas"
+    return w5_2,w5
+#####################################################################################################
+def PreProcesar_intents(Corpus, POS=False, Lema=True, Stem=True):
+    
+    
+    # Generar una lista de documentos de spacy para tratar el POS Tagging y la Lematización
+    docs=[]
+    for oracion in Corpus:
+        docs.append(nlp(oracion.lower())) #La lematización funciona mejor en minúsculas
+    
+    # Crear una lista de oraciones, donde cada elemento es una lista de palabras.
+    # Cada palabra está definida por una tupla (Texto, POSTag, Lema)
+    # Se omiten los tokens que son identificados como signos de puntuación
+    oraciones=[]
+    for doc in docs:
+        oracion=[]
+        for token in doc:
+            if token.pos_ != 'PUNCT':
+                oracion.append((token.text, token.pos_, token.lemma_))
+        oraciones.append(oracion)
+    
+    ww = open('stopwords_intents.txt', 'r', encoding='utf8')
+    stopwords = ww.read().split('\n')
+    stopwords=[x.lower() for x in stopwords]
+    ww.close()
+    oraciones = [[palabra for palabra in oracion if palabra[2] not in stopwords] for oracion in oraciones]
+    
+    # Stemming
+    if Stem==True:
+        oraciones_aux=[]
+        for oracion in oraciones:
+            oracion_aux=[]
+            for palabra in oracion:
+                p_texto, p_pos, p_lema = palabra
+                # Si Lema es True, se Stemmatiza el lema; si no, se Stemmatiza la palabra original
+                if Lema==True:
+                    oracion_aux.append((p_texto, p_pos, p_lema, spanish_stemmer.stem(p_lema)))
+                else:
+                    oracion_aux.append((p_texto, p_pos, p_lema, spanish_stemmer.stem(p_texto)))
+            oraciones_aux.append(oracion_aux)
+        
+        oraciones = oraciones_aux
+    
+    Corpus_Procesado = [] #Variable de salida
+    
+    for doc in oraciones:
+        oracion = ''
+        for palabra in doc:
+            if Stem == True:
+                # Devolver cadena de Stemming
+                oracion = oracion + palabra[3]
+            else:
+                if Lema == True:
+                    # Devolver cadena de Lemas
+                    oracion = oracion + palabra[2]
+                else:
+                    # Devolver cadena de palabras originales
+                    oracion = oracion + palabra[0]
+            
+            if POS == True:
+                #Concatenar POS a cada palabra
+                oracion = oracion + '_' + palabra[1].lower()
+            
+            oracion = oracion + ' '
+        
+        Corpus_Procesado.append(oracion)
+        
+    return Corpus_Procesado
+
+def Corregir_Documentos_intents(df_textos, columnas, POS=False, Lema=True, Stem=True):
+
+    for col in columnas:
+        df_textos[col] = PreProcesar_intents(list(df_textos[col]), POS, Lema, Stem)
+    
+    # Sanear el DataFrame eliminando los duplicados y reindexándolo
+    df_textos = df_textos.drop_duplicates().reset_index(drop=True)
+    
+    return df_textos
+
+def inte_listo(df_textos):
+    vari_df_textos_inte = df_textos.copy()
+    inte_corr = Corregir_Documentos_intents(vari_df_textos_inte,['oracion'],False,True,True)
+    vectorizador_intents = pickle.load(open("vectorizador_intents.pkl","rb"))
+    array_intents=vectorizador_intents.transform([inte_corr['oracion'][0][:-1]])
+
+    modelo_intents = pickle.load(open("modelo_intents.sav","rb"))
+    intents = sorted(list(modelo_intents.predict_proba(array_intents)[0]))[-1]
+    intents_2 = modelo_intents.predict(array_intents)
+    if intents < 0.7: intents_2[0] == "generalidades"
+    return intents_2,intents
+#####################################################################################################
+def sub_inte_listo(df_textos):
+    vari_df_textos_sub_inte= df_textos.copy()
+    sub_inte_corr = Corregir_Documentos_intents(vari_df_textos_sub_inte,['oracion'],False,True,True)
+    vectorizador_sub_intents = pickle.load(open("vectorizador_sub_intents.pkl","rb"))
+    array_sub_intents=vectorizador_sub_intents.transform([sub_inte_corr['oracion'][0][:-1]])
+
+    modelo_sub_intents = pickle.load(open("modelo_sub_intents.sav","rb"))
+    sub_intents = sorted(list(modelo_sub_intents.predict_proba(array_sub_intents)[0]))[-1]
+    sub_intents_2 = modelo_sub_intents.predict(array_sub_intents)
+    if sub_intents < 0.7: sub_intents_2[0] == "todas"
+    return sub_intents_2,sub_intents
+#####################################################################################################
+def pregunta_lista(df_textos):
+    carrera_ = carrera_lista(df_textos)
+    w5_ = w5_listo(df_textos)
+    inte_ = inte_listo(df_textos)
+    sub_inte_ = sub_inte_listo(df_textos)
+    listita = [inte_[0][0], sub_inte_[0][0], carrera_[0][0], w5_[0][0]]
+    df_textos_listo = pd.DataFrame(columns = ['Intencion',"SubIntencion","Carrera","w5"])
+    df_textos_listo.loc[0] = listita
+    return df_textos_listo 
+#####################################################################################################
